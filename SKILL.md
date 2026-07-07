@@ -1,15 +1,15 @@
 ---
-name: management-empirical-topic-builder
+name: paper-topic-builder
 description: Generate evidence-based empirical management research topics from a Zotero Collection, subcollection, tag, or fallback bibliography/PDF corpus. Use when asked to classify management literature, extract findings and limitations, map quantitative variable roles or qualitative mechanisms, synthesize theory gaps, rebuild variable networks, propose empirical models, and evaluate topics from an SSCI management reviewer perspective.
 ---
 
-# Management Empirical Topic Builder
+# Paper Topic Builder
 
 ## Purpose
 
 Use this skill to turn a specified Zotero literature set into evidence-based management empirical paper topics. The workflow reads the corpus, classifies each paper, extracts findings and limitations, maps quantitative variables and qualitative mechanisms, synthesizes theory gaps, recombines variable networks, generates topic cards and model candidates, and evaluates the topics from an SSCI management reviewer perspective.
 
-The user may call this skill by the requested underscored name `management_empirical_topic_builder`; the installed Codex skill name is the normalized hyphen form `management-empirical-topic-builder`.
+The user may call this skill by the requested underscored name `paper_topic_builder`; the installed Codex skill name is the normalized hyphen form `paper-topic-builder`.
 
 ## Required Inputs
 
