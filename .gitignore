@@ -1,0 +1,22 @@
+# Generated outputs
+output/
+*.xlsx
+
+# Zotero/fallback local data
+*.bib
+*.ris
+*.csv
+*.pdf
+*.txt
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
