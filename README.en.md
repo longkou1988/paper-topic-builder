@@ -28,7 +28,7 @@ The Skill does not invent topics from scratch. It reads a real Zotero Collection
 Clone this repository into your Codex skills directory using the new Skill folder name:
 
 ```bash
-git clone https://github.com/longkou1988/management-empirical-topic-builder.git ~/.codex/skills/paper-topic-builder
+git clone https://github.com/longkou1988/paper-topic-builder.git ~/.codex/skills/paper-topic-builder
 ```
 
 Restart Codex. Then invoke the Skill with:
@@ -37,7 +37,7 @@ Restart Codex. Then invoke the Skill with:
 $paper-topic-builder
 ```
 
-If you installed the earlier local folder name `management-empirical-topic-builder`, rename the folder to:
+If you installed an earlier local folder name, rename the folder to:
 
 ```text
 ~/.codex/skills/paper-topic-builder
