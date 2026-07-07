@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create empty output templates for management-empirical-topic-builder."""
+"""Create empty output templates for paper-topic-builder."""
 
 from __future__ import annotations
 
@@ -103,7 +103,7 @@ def write_workbook(path: Path, columns: list[str]) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Create empty output templates for the management empirical topic builder skill.")
+    parser = argparse.ArgumentParser(description="Create empty output templates for the paper topic builder skill.")
     parser.add_argument("--output", default="output", help="Output directory for templates.")
     args = parser.parse_args()
 
