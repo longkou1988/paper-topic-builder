@@ -1,6 +1,6 @@
 interface:
-  display_name: "Management Empirical Topic Builder"
-  short_description: "Build empirical management topics from Zotero literature"
-  default_prompt: "Use $management-empirical-topic-builder to analyze my Zotero management literature collection and generate evidence-based empirical research topics."
+  display_name: "Paper Topic Builder"
+  short_description: "Build empirical paper topics from Zotero literature"
+  default_prompt: "Use $paper-topic-builder to analyze my Zotero literature collection and generate evidence-based empirical research topics."
 policy:
   allow_implicit_invocation: true
